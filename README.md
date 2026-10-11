@@ -1,6 +1,4 @@
-# Chromium DevTools for agents #
---------------------------------
-# Chrome DevTools for agents
+# *Chromium DevTools for agents* #
 
 [![npm chrome-devtools-mcp package](https://img.shields.io/npm/v/chrome-devtools-mcp.svg)](https://npmjs.org/package/chrome-devtools-mcp)
 
