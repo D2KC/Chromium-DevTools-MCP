@@ -1,4 +1,4 @@
-# Chromium DevTools for agents *
+# Chromium DevTools for agents #
 --------------------------------
 # Chrome DevTools for agents
 
